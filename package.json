@@ -1,0 +1,23 @@
+{
+  "name": "ws-app",
+  "version": "0.0.1",
+  "description": "A demo app to showcase the usefulness of node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rishihot55/node-ws"
+  },
+  "keywords": [
+    "workshop",
+    "node-test"
+  ],
+  "author": "Rishi Rajasekaran, Siddharth Iyer, Shreya Ganesh",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/rishihot55/node-ws/issues"
+  },
+  "homepage": "https://github.com/rishihot55/node-ws"
+}
