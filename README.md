@@ -6,9 +6,9 @@ Repository for the Spider Javascript+Node.js workshop's code
 These contain basic Javascript coding examples to demonstrate the features of the language.
 They can be executed by typing in the following command:
 
-'''
+```
 	node [filename.js]
-'''
+```
 
 Besides the workshop, there are a lot of other resources to check out such as [Douglas Crockford's blog](http://javascript.crockford.com/), [this JS books resource](http://jsbooks.revolunet.com/) and the [MSDN Javascript Reference](https://msdn.microsoft.com/en-us/vstudio/jj673959.aspx)
 
